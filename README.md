@@ -1,2 +1,2 @@
 # quo-client
-a grpc client to interact with quote server
+using a grpc client to interact with quote server
